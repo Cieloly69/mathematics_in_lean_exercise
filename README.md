@@ -52,6 +52,8 @@ followed by `lake exe cache get` inside the `mathematics_in_lean` folder.
 (This assumes that you have not changed the contents of the `MIL` folder,
 which is why we suggested making a copy.)
 
+Warning: do not upate to the newest leanprover as dependency has changed.
+
 
 ## To use this repository with Github Codespaces
 
