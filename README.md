@@ -6,8 +6,7 @@ in
 [html format](https://leanprover-community.github.io/mathematics_in_lean/)
 or as a
 [pdf document](https://leanprover-community.github.io/mathematics_in_lean/mathematics_in_lean.pdf).
-The book is designed to be read as you
-work through examples and exercises,
+The book is designed to be read as you work through examples and exercises,
 using a copy of this repository on your computer.
 Alternatively, you can use Github Codespaces or Gitpod to run Lean and VS Code in the cloud.
 
